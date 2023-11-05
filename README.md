@@ -210,11 +210,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output screen shots on serial monitor   :
-
  ![278674584-4670b7bc-8467-4fbe-8d0f-8203734d9389](https://github.com/Sudharsanram/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/119393980/8cfa9b2c-82d4-47fd-aed8-af7709ee14a7)
-
  ![278674663-7aff5eca-d35e-4df9-b96c-4751753b3b33](https://github.com/Sudharsanram/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/119393980/1335f724-5063-4d66-9986-2efb33ed361b)
- 
 ![278674972-89419acf-94bc-4aba-b96f-bfb7a0ffdbf8](https://github.com/Sudharsanram/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/119393980/2ed14ec6-e21d-4e52-81a5-491c442e2a0b)
 
 
